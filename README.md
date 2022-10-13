@@ -1,5 +1,5 @@
 
-# Projeto de Banco de Dados de E-commerce
+# Projeto Conceitual para o Banco de Dados de um E-commerce
 
 	- Contexto: Levantamento de requisitos
 	- Projeto Conceitual: Modelo Entidade Relacionamento
